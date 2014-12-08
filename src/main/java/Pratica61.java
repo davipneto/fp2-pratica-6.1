@@ -1,8 +1,8 @@
 
 import java.util.Map;
 import java.util.Set;
-import utfpr.dainf.if62c.pratica.Jogador;
-import utfpr.dainf.if62c.pratica.Time;
+import utfpr.ct.dainf.if62c.pratica.Jogador;
+import utfpr.ct.dainf.if62c.pratica.Time;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
